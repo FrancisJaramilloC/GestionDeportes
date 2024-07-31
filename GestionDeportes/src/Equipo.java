@@ -33,5 +33,7 @@ public class Equipo {
         partidoJugado++;
     }
 
-
+    public String getNombre() {
+        return nombre;
+    }
 }
