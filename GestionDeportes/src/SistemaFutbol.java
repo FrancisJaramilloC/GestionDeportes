@@ -24,6 +24,14 @@ public class SistemaFutbol {
         return arbitro;
     }
 
-    // Métodos adicionales según el diagrama...
+    public Partido organizarFaseEliminacion(Competencia competencia, String fase) {
+
+        return null;
+    }
+
+    public void organizarTablaPosicion(Partido partido) {
+
+    }
+
 }
 

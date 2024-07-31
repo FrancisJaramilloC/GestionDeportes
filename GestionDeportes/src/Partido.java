@@ -21,8 +21,8 @@ public class Partido {
     }
 
     public void iniciarPartido() {
-        // Implementar lógica para iniciar el partido
+
     }
 
-    // Métodos adicionales según el diagrama...
+
 }

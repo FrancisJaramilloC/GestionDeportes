@@ -33,5 +33,5 @@ public class Equipo {
         partidoJugado++;
     }
 
-    // Métodos adicionales según el diagrama...
+
 }

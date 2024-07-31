@@ -9,5 +9,5 @@ public class Jugador {
         this.posicion = posicion;
     }
 
-    // Métodos adicionales según el diagrama...
+
 }

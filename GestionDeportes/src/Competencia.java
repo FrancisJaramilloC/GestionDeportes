@@ -23,9 +23,9 @@ public class Competencia {
     }
 
     public Equipo determinarGanador(Partido partido) {
-        // Implementar lógica para determinar ganador
+
         return null;
     }
 
-    // Métodos adicionales según el diagrama...
+
 }
